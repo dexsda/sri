@@ -1,0 +1,5 @@
+pysr
+scipy
+numpy
+sympy
+wolframclient
